@@ -1,0 +1,13 @@
+Ajax演示： 
+	GET请求:  https://mock.apifox.cn/m1/3083103-0-default/emps/list
+	
+	POST请求: https://mock.apifox.cn/m1/3083103-0-default/emps/update
+
+
+
+Ajax员工列表案例地址： 
+	
+	https://web-server.itheima.net/emps/list
+	
+	https://web-server.itheima.net/emps/list?name=xxx&gender=xxx&job=xxx
+	

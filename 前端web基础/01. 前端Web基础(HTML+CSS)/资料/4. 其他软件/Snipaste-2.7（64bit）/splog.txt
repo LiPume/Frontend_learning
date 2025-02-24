@@ -1,0 +1,554 @@
+[2025-02-20 21:15:44.434] [I] ***************************************************************
+[2025-02-20 21:15:44.434] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-20 21:15:44.435] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-20 21:15:44.435] [I] Cores: 20
+[2025-02-20 21:15:44.435] [I] Elevated: false
+[2025-02-20 21:15:44.435] [I] Main thread id: 0x7f04
+[2025-02-20 21:15:44.435] [I] Log level: 2
+[2025-02-20 21:15:44.435] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-20 21:15:44.435] [I] Working dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-20 21:15:44.435] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-20 21:15:44.435] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-20 21:15:44.435] [I] Screen scale: 1.5
+[2025-02-20 21:15:44.435] [I] Retina factor: 1
+[2025-02-20 21:15:44.435] [I] Screens: 1
+[2025-02-20 21:15:44.435] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:15:44.444] [I] Desktops: -1
+[2025-02-20 21:15:44.444] [I] OpenGL support: false
+[2025-02-20 21:15:44.580] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-20 21:15:44.582] [I] Settings imported
+[2025-02-20 21:15:44.586] [I] Breakpad initialized
+[2025-02-20 21:15:44.589] [I] Process priority: 1
+[2025-02-20 21:15:44.590] [I] Initializing Snipaste...
+[2025-02-20 21:15:45.561] [I] Prefetch...
+[2025-02-20 21:15:45.572] [I] Load default ssl configuration: 11 ms
+[2025-02-20 21:15:45.588] [I] Preloaded 20 files: 27 ms
+[2025-02-20 21:15:45.605] [I] About to apply settings...
+[2025-02-20 21:15:45.633] [I] Settings applied
+[2025-02-20 21:15:45.639] [I] Log level set to: 2
+[2025-02-20 21:15:45.662] [I] History dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/history
+[2025-02-20 21:15:45.663] [W] Failed to open history file "E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/history/.sp0" for reading
+[2025-02-20 21:15:45.663] [I] Add group
+[2025-02-20 21:15:45.701] [I] Request to switch to group 0
+[2025-02-20 21:15:45.749] [I] About to restore pasters...
+[2025-02-20 21:15:45.749] [I] Group 0 [VZNY27]: "默认"
+[2025-02-20 21:15:45.749] [I] Record version: 193
+[2025-02-20 21:15:45.749] [I] To restore: 0
+[2025-02-20 21:15:45.749] [I] Pasters touched
+[2025-02-20 21:15:45.749] [I] All pasters activated: true
+[2025-02-20 21:15:45.766] [I] Unref images: 0 (0 removed)
+[2025-02-20 21:15:45.766] [I] Unref dirs: 0 (0 removed)
+[2025-02-20 21:15:45.766] [I] Empty history info files: 0 (0 removed)
+[2025-02-20 21:15:45.766] [I] Pasters restored
+[2025-02-20 21:15:45.766] [I] Launch time: 1333 ms
+[2025-02-20 21:16:56.875] [I] Silent feed checking finished
+[2025-02-20 21:16:56.875] [I] New version available: 2.10.5
+[2025-02-20 21:17:51.154] [I] UpdaterDialog destroyed
+[2025-02-20 21:18:51.078] [I] Second instance: 1
+[2025-02-20 21:18:55.690] [I] Second instance: 1
+[2025-02-20 21:23:05.642] [I] Parsing command arguments [0]: (sp, snip)
+[2025-02-20 21:23:05.642] [I] Snip request: 0 (dest: 0)
+[2025-02-20 21:23:05.642] [I] Snipper: preparing...
+[2025-02-20 21:23:05.642] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2025-02-20 21:23:05.699] [I] Background size: QSize(2560, 1440)
+[2025-02-20 21:23:05.699] [I] Screens: 1
+[2025-02-20 21:23:05.699] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:23:05.711] [I] Focus set
+[2025-02-20 21:23:05.712] [I] Snipper: preparation done (0)
+[2025-02-20 21:23:05.712] [I] Snipper: about to appear...
+[2025-02-20 21:23:05.712] [I] Snipper: prepare to show...
+[2025-02-20 21:23:05.716] [I] Snipper: shown
+[2025-02-20 21:23:05.731] [I] Snipper: focus in
+[2025-02-20 21:23:05.732] [I] Snipper: ready [0.09 s]
+[2025-02-20 21:23:09.316] [I] Screenshot (2022, 1077, 351 x 291) destination: none
+[2025-02-20 21:23:09.316] [I] Snipper: about to quit...
+[2025-02-20 21:23:09.327] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2025-02-20 21:23:09.335] [I] Snipper: hidden
+[2025-02-20 21:23:09.336] [I] Snipper: quit
+[2025-02-20 21:23:12.576] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2025-02-20 21:23:26.803] [I] User says yes to restart Snipaste with admin privileges
+[2025-02-20 21:23:26.803] [I] About to restart...
+[2025-02-20 21:23:26.820] [I] Snipaste: normal exit
+[2025-02-20 21:23:26.820] [I] Snipper: destructed
+[2025-02-20 21:23:26.847] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
+
+
+[2025-02-20 21:23:27.120] [I] ***************************************************************
+[2025-02-20 21:23:27.121] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-20 21:23:27.121] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-20 21:23:27.121] [I] Cores: 20
+[2025-02-20 21:23:27.121] [I] Elevated: true
+[2025-02-20 21:23:27.121] [I] Main thread id: 0x8858
+[2025-02-20 21:23:27.121] [I] Log level: 2
+[2025-02-20 21:23:27.121] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-20 21:23:27.121] [I] Working dir: C:/WINDOWS/system32
+[2025-02-20 21:23:27.121] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-20 21:23:27.121] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-20 21:23:27.121] [I] Screen scale: 1.5
+[2025-02-20 21:23:27.121] [I] Retina factor: 1
+[2025-02-20 21:23:27.121] [I] Screens: 1
+[2025-02-20 21:23:27.121] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:23:27.129] [I] Desktops: -1
+[2025-02-20 21:23:27.129] [I] OpenGL support: false
+[2025-02-20 21:23:27.198] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-20 21:23:27.205] [I] Settings imported
+[2025-02-20 21:23:27.206] [I] Breakpad initialized
+[2025-02-20 21:23:27.207] [I] Process priority: 1
+[2025-02-20 21:23:27.208] [I] Initializing Snipaste...
+[2025-02-20 21:23:27.619] [I] Prefetch...
+[2025-02-20 21:23:27.625] [I] About to apply settings...
+[2025-02-20 21:23:27.629] [I] Preloaded 20 files: 9 ms
+[2025-02-20 21:23:27.630] [I] Load default ssl configuration: 10 ms
+[2025-02-20 21:23:27.649] [I] Settings applied
+[2025-02-20 21:23:27.655] [I] Log level set to: 2
+[2025-02-20 21:23:27.698] [I] History dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/history
+[2025-02-20 21:23:27.700] [I] Header version: 193
+[2025-02-20 21:23:27.700] [I] About to restore pasters...
+[2025-02-20 21:23:27.700] [I] Group 0 [VZNY27]: "默认"
+[2025-02-20 21:23:27.700] [I] Record version: 193
+[2025-02-20 21:23:27.700] [I] To restore: 0
+[2025-02-20 21:23:27.700] [I] Pasters touched
+[2025-02-20 21:23:27.700] [I] All pasters activated: true
+[2025-02-20 21:23:27.753] [I] Unref images: 0 (0 removed)
+[2025-02-20 21:23:27.753] [I] Unref dirs: 0 (0 removed)
+[2025-02-20 21:23:27.753] [I] Empty history info files: 0 (0 removed)
+[2025-02-20 21:23:27.753] [I] Pasters restored
+[2025-02-20 21:23:27.753] [I] Launch time: 633 ms
+[2025-02-20 21:24:00.805] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2025-02-20 21:24:12.453] [I] Parsing command arguments [0]: (sp, show-tray-menu)
+[2025-02-20 21:24:28.349] [I] Silent feed checking finished
+[2025-02-20 21:24:28.349] [I] New version available: 2.10.5
+[2025-02-20 21:24:31.367] [W] Shortcut too simple, rejected: QKeySequence("F")
+[2025-02-20 21:24:31.367] [W] QxtGlobalShortcut failed to register: QKeySequence("F")
+[2025-02-20 21:24:31.367] [W] Shortcut too simple, rejected: QKeySequence("F")
+[2025-02-20 21:24:31.367] [W] QxtGlobalShortcut failed to register: QKeySequence("F")
+[2025-02-20 21:24:31.476] [W] Shortcut too simple, rejected: QKeySequence("1")
+[2025-02-20 21:24:31.476] [W] QxtGlobalShortcut failed to register: QKeySequence("1")
+[2025-02-20 21:24:31.476] [W] Shortcut too simple, rejected: QKeySequence("1")
+[2025-02-20 21:24:31.476] [W] QxtGlobalShortcut failed to register: QKeySequence("1")
+[2025-02-20 21:24:34.822] [W] Shortcut too simple, rejected: QKeySequence("1")
+[2025-02-20 21:24:34.822] [W] QxtGlobalShortcut failed to register: QKeySequence("1")
+[2025-02-20 21:24:34.822] [W] Shortcut too simple, rejected: QKeySequence("1")
+[2025-02-20 21:24:34.822] [W] QxtGlobalShortcut failed to register: QKeySequence("1")
+[2025-02-20 21:24:37.272] [W] Shortcut too simple, rejected: QKeySequence("1")
+[2025-02-20 21:24:37.272] [W] QxtGlobalShortcut failed to register: QKeySequence("1")
+[2025-02-20 21:26:09.894] [I] Parsing command arguments [1]: (sp, snip)
+[2025-02-20 21:26:09.895] [I] Snip request: 0 (dest: 0)
+[2025-02-20 21:26:09.895] [I] Snipper: preparing...
+[2025-02-20 21:26:09.895] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2025-02-20 21:26:09.966] [I] Background size: QSize(2560, 1440)
+[2025-02-20 21:26:09.966] [I] Screens: 1
+[2025-02-20 21:26:09.966] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:26:09.987] [I] Focus set
+[2025-02-20 21:26:09.988] [I] Snipper: preparation done (0)
+[2025-02-20 21:26:09.989] [I] Snipper: about to appear...
+[2025-02-20 21:26:09.989] [I] Snipper: prepare to show...
+[2025-02-20 21:26:09.994] [I] Snipper: shown
+[2025-02-20 21:26:10.016] [I] Snipper: focus in
+[2025-02-20 21:26:10.016] [I] Snipper: ready [0.121 s]
+[2025-02-20 21:26:20.230] [I] Screenshot (717, 613, 492 x 415) destination: pin, 
+[2025-02-20 21:26:20.230] [I] Paste image: QPoint(717, 613)
+[2025-02-20 21:26:20.254] [I] Screenshot successfully saved: pin, 
+[2025-02-20 21:26:20.312] [I] Snipper: about to quit...
+[2025-02-20 21:26:20.344] [I] Snipper: focus out [3] (Foreground window: Paster - Snipaste)
+[2025-02-20 21:26:20.345] [I] Snipper: hidden
+[2025-02-20 21:26:20.346] [I] Snipper: quit
+[2025-02-20 21:26:20.635] [I] Snipper: scene saved
+[2025-02-20 21:33:27.729] [I] Preloaded 20 files: 24 ms [every 10.0 m]
+[2025-02-20 21:33:37.711] [I] Parsing command arguments [1]: (sp, snip)
+[2025-02-20 21:33:37.711] [I] Snip request: 0 (dest: 0)
+[2025-02-20 21:33:37.711] [I] Snipper: preparing...
+[2025-02-20 21:33:37.711] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2025-02-20 21:33:37.757] [I] Background size: QSize(2560, 1440)
+[2025-02-20 21:33:37.757] [I] Screens: 1
+[2025-02-20 21:33:37.757] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:33:37.770] [I] Focus set
+[2025-02-20 21:33:37.771] [I] Snipper: preparation done (0)
+[2025-02-20 21:33:37.771] [I] Snipper: about to appear...
+[2025-02-20 21:33:37.771] [I] Snipper: prepare to show...
+[2025-02-20 21:33:37.774] [I] Snipper: shown
+[2025-02-20 21:33:37.793] [I] Snipper: focus in
+[2025-02-20 21:33:37.793] [I] Snipper: ready [0.081 s]
+[2025-02-20 21:33:56.995] [I] Snipper: focus out [3] (Foreground window: Snipaste)
+[2025-02-20 21:34:01.782] [I] Snipper: focus in
+[2025-02-20 21:34:01.782] [I] Screenshot (0, 0, 2560 x 1440) destination: none
+[2025-02-20 21:34:01.782] [I] Snipper: about to quit...
+[2025-02-20 21:34:01.786] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2025-02-20 21:34:01.798] [I] Snipper: hidden
+[2025-02-20 21:34:01.799] [I] Snipper: quit
+[2025-02-20 21:34:56.790] [I] Parsing command arguments [1]: (sp, snip)
+[2025-02-20 21:34:56.790] [I] Snip request: 0 (dest: 0)
+[2025-02-20 21:34:56.790] [I] Snipper: preparing...
+[2025-02-20 21:34:56.790] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2025-02-20 21:34:56.831] [I] Background size: QSize(2560, 1440)
+[2025-02-20 21:34:56.831] [I] Screens: 1
+[2025-02-20 21:34:56.831] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:34:56.836] [I] Focus set
+[2025-02-20 21:34:56.836] [I] Snipper: preparation done (0)
+[2025-02-20 21:34:56.837] [I] Snipper: about to appear...
+[2025-02-20 21:34:56.837] [I] Snipper: prepare to show...
+[2025-02-20 21:34:56.840] [I] Snipper: shown
+[2025-02-20 21:34:56.856] [I] Snipper: focus in
+[2025-02-20 21:34:56.856] [I] Snipper: ready [0.067 s]
+[2025-02-20 21:35:04.935] [I] Screenshot (415, 324, 381 x 266) destination: pin, 
+[2025-02-20 21:35:04.935] [I] Paste image: QPoint(415, 324)
+[2025-02-20 21:35:04.964] [I] Screenshot successfully saved: pin, 
+[2025-02-20 21:35:05.001] [I] Snipper: about to quit...
+[2025-02-20 21:35:05.028] [I] Snipper: focus out [3] (Foreground window: Paster - Snipaste)
+[2025-02-20 21:35:05.028] [I] Snipper: hidden
+[2025-02-20 21:35:05.029] [I] Snipper: quit
+[2025-02-20 21:35:05.353] [I] Snipper: scene saved
+[2025-02-20 21:35:38.381] [I] Parsing command arguments [1]: (sp, snip)
+[2025-02-20 21:35:38.382] [I] Snip request: 0 (dest: 0)
+[2025-02-20 21:35:38.382] [I] Snipper: preparing...
+[2025-02-20 21:35:38.382] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2025-02-20 21:35:38.422] [I] Background size: QSize(2560, 1440)
+[2025-02-20 21:35:38.422] [I] Screens: 1
+[2025-02-20 21:35:38.422] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:35:38.430] [I] Focus set
+[2025-02-20 21:35:38.431] [I] Snipper: preparation done (0)
+[2025-02-20 21:35:38.434] [I] Snipper: about to appear...
+[2025-02-20 21:35:38.434] [I] Snipper: prepare to show...
+[2025-02-20 21:35:38.438] [I] Snipper: shown
+[2025-02-20 21:35:38.457] [I] Snipper: focus in
+[2025-02-20 21:35:38.457] [I] Snipper: ready [0.076 s]
+[2025-02-20 21:35:51.143] [I] Screenshot (840, 385, 454 x 269) destination: pin, 
+[2025-02-20 21:35:51.144] [I] Paste image: QPoint(840, 385)
+[2025-02-20 21:35:51.168] [I] Screenshot successfully saved: pin, 
+[2025-02-20 21:35:51.204] [I] Snipper: about to quit...
+[2025-02-20 21:35:51.227] [I] Snipper: focus out [3] (Foreground window: Paster - Snipaste)
+[2025-02-20 21:35:51.227] [I] Snipper: hidden
+[2025-02-20 21:35:51.227] [I] Snipper: quit
+[2025-02-20 21:35:51.524] [I] Snipper: scene saved
+[2025-02-20 21:36:52.349] [I] Parsing command arguments [1]: (sp, snip)
+[2025-02-20 21:36:52.349] [I] Snip request: 0 (dest: 0)
+[2025-02-20 21:36:52.349] [I] Snipper: preparing...
+[2025-02-20 21:36:52.349] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2025-02-20 21:36:52.388] [I] Background size: QSize(2560, 1440)
+[2025-02-20 21:36:52.388] [I] Screens: 1
+[2025-02-20 21:36:52.388] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:36:52.400] [I] Focus set
+[2025-02-20 21:36:52.401] [I] Snipper: preparation done (0)
+[2025-02-20 21:36:52.403] [I] Snipper: about to appear...
+[2025-02-20 21:36:52.403] [I] Snipper: prepare to show...
+[2025-02-20 21:36:52.406] [I] Snipper: shown
+[2025-02-20 21:36:52.427] [I] Snipper: focus in
+[2025-02-20 21:36:52.427] [I] Snipper: ready [0.078 s]
+[2025-02-20 21:36:56.174] [I] Screenshot (1, 73, 1990 x 1291) destination: none
+[2025-02-20 21:36:56.175] [I] Snipper: about to quit...
+[2025-02-20 21:36:56.180] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2025-02-20 21:36:56.193] [I] Snipper: hidden
+[2025-02-20 21:36:56.194] [I] Snipper: quit
+[2025-02-20 21:37:01.009] [I] Parsing command arguments [1]: (sp, snip)
+[2025-02-20 21:37:01.010] [I] Snip request: 0 (dest: 0)
+[2025-02-20 21:37:01.010] [I] Snipper: preparing...
+[2025-02-20 21:37:01.010] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2025-02-20 21:37:01.055] [I] Background size: QSize(2560, 1440)
+[2025-02-20 21:37:01.055] [I] Screens: 1
+[2025-02-20 21:37:01.055] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:37:01.072] [I] Focus set
+[2025-02-20 21:37:01.073] [I] Snipper: preparation done (0)
+[2025-02-20 21:37:01.073] [I] Snipper: about to appear...
+[2025-02-20 21:37:01.073] [I] Snipper: prepare to show...
+[2025-02-20 21:37:01.076] [I] Snipper: shown
+[2025-02-20 21:37:01.094] [I] Snipper: focus in
+[2025-02-20 21:37:01.094] [I] Snipper: ready [0.085 s]
+[2025-02-20 21:37:06.652] [I] Screenshot (1, 73, 1990 x 1291) destination: none
+[2025-02-20 21:37:06.652] [I] Snipper: about to quit...
+[2025-02-20 21:37:06.655] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2025-02-20 21:37:06.664] [I] Snipper: hidden
+[2025-02-20 21:37:06.665] [I] Snipper: quit
+[2025-02-20 21:37:08.232] [I] Parsing command arguments [1]: (sp, snip)
+[2025-02-20 21:37:08.232] [I] Snip request: 0 (dest: 0)
+[2025-02-20 21:37:08.232] [I] Snipper: preparing...
+[2025-02-20 21:37:08.232] [I] Desktop: QRect(0, 0, 2560 x 1440)
+[2025-02-20 21:37:08.272] [I] Background size: QSize(2560, 1440)
+[2025-02-20 21:37:08.272] [I] Screens: 1
+[2025-02-20 21:37:08.272] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-20 21:37:08.282] [I] Focus set
+[2025-02-20 21:37:08.283[2025-02-21 13:53:22.179] [I] ***************************************************************
+[2025-02-21 13:53:22.179] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-21 13:53:22.179] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-21 13:53:22.179] [I] Cores: 20
+[2025-02-21 13:53:22.179] [I] Elevated: false
+[2025-02-21 13:53:22.179] [I] Main thread id: 0x554
+[2025-02-21 13:53:22.179] [I] Log level: 2
+[2025-02-21 13:53:22.179] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-21 13:53:22.179] [I] Working dir: C:/WINDOWS/system32
+[2025-02-21 13:53:22.179] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-21 13:53:22.179] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-21 13:53:22.179] [I] Screen scale: 1.5
+[2025-02-21 13:53:22.179] [I] Retina factor: 1
+[2025-02-21 13:53:22.180] [I] Screens: 1
+[2025-02-21 13:53:22.180] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-21 13:53:22.189] [I] Desktops: -1
+[2025-02-21 13:53:22.189] [I] OpenGL support: false
+[2025-02-21 13:53:22.260] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-21 13:53:22.266] [I] Settings imported
+[2025-02-21 13:53:22.269] [I] About to restart...
+[2025-02-21 13:53:22.271] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
+
+
+[2025-02-22 14:37:15.243] [I] ***************************************************************
+[2025-02-22 14:37:15.244] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-22 14:37:15.244] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-22 14:37:15.244] [I] Cores: 20
+[2025-02-22 14:37:15.244] [I] Elevated: false
+[2025-02-22 14:37:15.244] [I] Main thread id: 0x65a4
+[2025-02-22 14:37:15.244] [I] Log level: 2
+[2025-02-22 14:37:15.244] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-22 14:37:15.244] [I] Working dir: C:/WINDOWS/system32
+[2025-02-22 14:37:15.244] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-22 14:37:15.244] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-22 14:37:15.244] [I] Screen scale: 1.5
+[2025-02-22 14:37:15.244] [I] Retina factor: 1
+[2025-02-22 14:37:15.244] [I] Screens: 1
+[2025-02-22 14:37:15.244] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-22 14:37:15.251] [I] Desktops: -1
+[2025-02-22 14:37:15.251] [I] OpenGL support: false
+[2025-02-22 14:37:15.315] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-22 14:37:15.320] [I] Settings imported
+[2025-02-22 14:37:15.323] [I] About to restart...
+[2025-02-22 14:37:15.325] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
+
+
+[2025-02-22 14:37:15.563] [I] ***************************************************************
+[2025-02-22 14:37:15.564] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-22 14:37:15.564] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-22 14:37:15.564] [I] Cores: 20
+[2025-02-22 14:37:15.564] [I] Elevated: true
+[2025-02-22 14:37:15.564] [I] Main thread id: 0xa30
+[2025-02-22 14:37:15.564] [I] Log level: 2
+[2025-02-22 14:37:15.564] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-22 14:37:15.564] [I] Working dir: C:/WINDOWS/system32
+[2025-02-22 14:37:15.564] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-22 14:37:15.564] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-22 14:37:15.564] [I] Screen scale: 1.5
+[2025-02-22 14:37:15.564] [I] Retina factor: 1
+[2025-02-22 14:37:15.564] [I] Screens: 1
+[2025-02-22 14:37:15.564] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-22 14:37:15.570] [I] Desktops: -1
+[2025-02-22 14:37:15.570] [I] OpenGL support: false
+[2025-02-22 14:37:15.625] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-22 14:37:15.631] [I] Settings imported
+[2025-02-22 14:37:15.632] [I] Breakpad initialized
+[2025-02-22 14:37:15.647] [I] Process priority: 1
+[2025-02-22 14:37:15.647] [I] Initializing Snipaste...
+[2025-02-22 14:37:16.081] [I] Prefetch...
+[2025-02-22 14:37:16.093] [I] Load default ssl configuration: 11 ms
+[2025-02-22 14:37:16.317] [I] About to apply settings...
+[2025-02-22 14:37:16.343] [I] Settings applied
+[2025-02-22 14:37:16.348] [I] Log level set to: 2
+[2025-02-22 14:37:16.359] [I] Preloaded 20 files: 276 ms
+[2025-02-22 14:37:16.368] [I] History dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/history
+[2025-02-22 14:37:16.375] [I] Header version: 193
+[2025-02-22 14:37:16.375] [I] About to restore pasters...
+[2025-02-22 14:37:16.381] [I] Group 0 [VZNY27]: "默认"
+[2025-02-22 14:37:16.381] [I] Record version: 193
+[2025-02-22 14:37:16.381] [I] To restore: 0
+[2025-02-22 14:37:16.381] [I] Pasters touched
+[2025-02-22 14:37:16.381] [I] All pasters activated: true
+[2025-02-22 14:37:16.414] [I] Unref images: 0 (0 removed)
+[2025-02-22 14:37:16.414] [I] Unref dirs: 0 (0 removed)
+[2025-02-22 14:37:16.414] [I] Empty history info files: 0 (0 removed)
+[2025-02-22 14:37:16.414] [I] Pasters restored
+[2025-02-22 14:37:16.414] [I] Launch time: 851 ms
+[2025-02-22 14:38:16.654] [I] Silent feed checking finished
+[2025-02-22 14:38:16.654] [I] New version available: 2.10.5
+[2025-02-22 15:07:17.517] [I] Preloaded 20 files: 1149 ms [every 30.0 m]
+[2025-02-22 15:29:47.518] [I] Preloaded 20 files: 5 ms [every 22.5 m]
+[2025-02-22 15:58:00.174] [I] Preloaded 20 files: 1356 ms [every 28.1 m]
+[2025-02-22 16:19:06.209] [I] Preloaded 20 files: 45 ms [every 21.1 m]
+[2025-02-22 16:45:28.247] [I] Preloaded 20 files: 49 ms [every 26.4 m]
+[2025-02-22 17:15:28.256] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2025-02-22 17:45:28.265] [I] Preloaded 20 files: 9 ms [every 30.0 m]
+[2025-02-22 18:15:28.309] [I] Preloaded 20 files: 45 ms [every 30.0 m]
+[2025-02-22 18:45:28.355] [I] Preloaded 20 files: 50 ms [every 30.0 m]
+[2025-02-22 19:15:28.368] [I] Preloaded 20 files: 9 ms [every 30.0 m]
+[2025-02-22 19:45:28.420] [I] Preloaded 20 files: 50 ms [every 30.0 m]
+[2025-02-22 20:15:28.474] [I] Preloaded 20 files: 50 ms [every 30.0 m]
+[2025-02-22 20:45:28.507] [I] Preloaded 20 files: 38 ms [every 30.0 m]
+[2025-02-22 21:15:28.519] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2025-02-22 21:45:28.530] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2025-02-22 22:15:28.568] [I] Preloaded 20 files: 42 ms [every 30.0 m]
+[2025-02-22 22:45:28.602] [I] Preloa[2025-02-23 14:01:37.935] [I] ***************************************************************
+[2025-02-23 14:01:37.936] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-23 14:01:37.936] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-23 14:01:37.936] [I] Cores: 20
+[2025-02-23 14:01:37.936] [I] Elevated: false
+[2025-02-23 14:01:37.936] [I] Main thread id: 0x3b5c
+[2025-02-23 14:01:37.936] [I] Log level: 2
+[2025-02-23 14:01:37.936] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-23 14:01:37.936] [I] Working dir: C:/WINDOWS/system32
+[2025-02-23 14:01:37.936] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-23 14:01:37.936] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-23 14:01:37.936] [I] Screen scale: 1.5
+[2025-02-23 14:01:37.936] [I] Retina factor: 1
+[2025-02-23 14:01:37.937] [I] Screens: 1
+[2025-02-23 14:01:37.937] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-23 14:01:37.954] [I] Desktops: -1
+[2025-02-23 14:01:37.954] [I] OpenGL support: false
+[2025-02-23 14:01:38.053] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-23 14:01:38.061] [I] Settings imported
+[2025-02-23 14:01:38.066] [I] About to restart...
+[2025-02-23 14:01:38.069] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
+
+
+[2025-02-23 14:01:39.606] [I] ***************************************************************
+[2025-02-23 14:01:39.609] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-23 14:01:39.609] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-23 14:01:39.609] [I] Cores: 20
+[2025-02-23 14:01:39.609] [I] Elevated: true
+[2025-02-23 14:01:39.609] [I] Main thread id: 0x66b4
+[2025-02-23 14:01:39.609] [I] Log level: 2
+[2025-02-23 14:01:39.609] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-23 14:01:39.609] [I] Working dir: C:/WINDOWS/system32
+[2025-02-23 14:01:39.609] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-23 14:01:39.609] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-23 14:01:39.609] [I] Screen scale: 1.5
+[2025-02-23 14:01:39.609] [I] Retina factor: 1
+[2025-02-23 14:01:39.609] [I] Screens: 1
+[2025-02-23 14:01:39.609] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-23 14:01:39.627] [I] Desktops: -1
+[2025-02-23 14:01:39.627] [I] OpenGL support: false
+[2025-02-23 14:01:39.740] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-23 14:01:39.749] [I] Settings imported
+[2025-02-23 14:01:39.751] [I] Breakpad initialized
+[2025-02-23 14:01:39.775] [I] Process priority: 1
+[2025-02-23 14:01:39.775] [I] Initializing Snipaste...
+[2025-02-23 14:01:41.111] [I] Prefetch...
+[2025-02-23 14:01:41.132] [I] Load default ssl configuration: 21 ms
+[2025-02-23 14:01:41.301] [I] Preloaded 20 files: 190 ms
+[2025-02-23 14:01:41.315] [I] About to apply settings...
+[2025-02-23 14:01:41.380] [I] Settings applied
+[2025-02-23 14:01:41.398] [I] Log level set to: 2
+[2025-02-23 14:01:41.436] [I] History dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/history
+[2025-02-23 14:01:41.446] [I] Header version: 193
+[2025-02-23 14:01:41.447] [I] About to restore pasters...
+[2025-02-23 14:01:41.456] [I] Group 0 [VZNY27]: "默认"
+[2025-02-23 14:01:41.456] [I] Record version: 193
+[2025-02-23 14:01:41.456] [I] To restore: 0
+[2025-02-23 14:01:41.456] [I] Pasters touched
+[2025-02-23 14:01:41.456] [I] All pasters activated: true
+[2025-02-23 14:01:41.550] [I] Unref images: 0 (0 removed)
+[2025-02-23 14:01:41.550] [I] Unref dirs: 0 (0 removed)
+[2025-02-23 14:01:41.551] [I] Empty history info files: 0 (0 removed)
+[2025-02-23 14:01:41.551] [I] Pasters restored
+[2025-02-23 14:01:41.551] [I] Launch time: 1945 ms
+[2025-02-23 14:02:41.831] [I] Silent feed checking finished
+[2025-02-23 14:02:41.831] [I] New version available: 2.10.5
+[2025-02-23 14:31:42.969] [I] Preloaded 20 files: 1534 ms [every 30.0 m]
+[2025-02-23 14:54:13.032] [I] Preloaded 20 files: 59 ms [every 22.5 m]
+[2025-02-23 15:22:21.075] [I] Preloaded 20 files: 44 ms [every 28.1 m]
+[2025-02-23 15:52:21.117] [I] Preloaded 20 files: 35 ms [every 30.0 m]
+[2025-02-23 16:22:21.147] [I] Preloaded 20 files: 37 ms [every 30.0 m]
+[2025-02-23 16:52:22.692] [I] Preloaded 20 files: 1543 ms [every 30.0 m]
+[2025-02-23 17:14:52.735] [I] Preloaded 20 files: 45 ms [every 22.5 m]
+[2025-02-23 17:43:00.745] [I] Preloaded 20 files: 10 ms [every 28.1 m]
+[2025-02-23 18:13:00.784] [I] Preloaded 20 files: 35 ms [every 30.0 m]
+[2025-02-23 18:43:00.806] [I] Preloaded 20 files: 12 ms [every 30.0 m]
+[2025-02-23 19:13:00.808] [I] Preloaded 20 files: 12 ms [every 30.0 m]
+[2025-02-23 19:43:00.854] [I] Preloaded 20 files: 37 ms [every 30.0 m]
+[2025-02-23 20:13:00.874] [I] Preloaded 20 files: 7 ms [every 30.0 m]
+[2025-02-23 20:43:00.888] [I] Preloaded 20 files: 12 ms [every 30.0 m]
+[2025-02-23 21:13:00.901] [I] Preloaded 20 files: 9 ms [every 30.0 m]
+[2025-02-23 21:43:00.948] [I] Preloaded 20 files: 40 ms [every 30.0 m]
+[2025-02-23 22:13:00.994] [I] Preloaded 20 files: 33 ms [every 30.0 m]
+[2025-02-23 22:43:01.042] [I] Preloaded 20 files: 37 ms [every 30.0 m]
+[2025-02-23 23:13:01.052] [I] Preloaded 20 files: 6 ms [every 30.0 m]
+[2025-02-23 23:43:01.068] [I] Preloaded 20 files: 9 ms [every 30.0 m]
+[2025-02-24 00:04:55.656] [I] Snipaste: normal exit
+[2025-02-24 00:04:55.656] [I] Snipper: destructed
+[2025-02-24 00:04:55.695] [I] Exit: 0
+
+
+[2025-02-24 13:26:47.004] [I] ***************************************************************
+[2025-02-24 13:26:47.005] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-24 13:26:47.005] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-24 13:26:47.005] [I] Cores: 20
+[2025-02-24 13:26:47.005] [I] Elevated: false
+[2025-02-24 13:26:47.005] [I] Main thread id: 0x157c
+[2025-02-24 13:26:47.005] [I] Log level: 2
+[2025-02-24 13:26:47.005] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-24 13:26:47.005] [I] Working dir: C:/WINDOWS/system32
+[2025-02-24 13:26:47.005] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-24 13:26:47.005] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-24 13:26:47.005] [I] Screen scale: 1.5
+[2025-02-24 13:26:47.005] [I] Retina factor: 1
+[2025-02-24 13:26:47.005] [I] Screens: 1
+[2025-02-24 13:26:47.005] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-24 13:26:47.012] [I] Desktops: -1
+[2025-02-24 13:26:47.012] [I] OpenGL support: false
+[2025-02-24 13:26:47.072] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-24 13:26:47.079] [I] Settings imported
+[2025-02-24 13:26:47.081] [I] About to restart...
+[2025-02-24 13:26:47.083] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
+
+
+[2025-02-24 13:26:47.325] [I] ***************************************************************
+[2025-02-24 13:26:47.325] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-24 13:26:47.325] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-24 13:26:47.325] [I] Cores: 20
+[2025-02-24 13:26:47.325] [I] Elevated: true
+[2025-02-24 13:26:47.325] [I] Main thread id: 0x6040
+[2025-02-24 13:26:47.325] [I] Log level: 2
+[2025-02-24 13:26:47.325] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-24 13:26:47.325] [I] Working dir: C:/WINDOWS/system32
+[2025-02-24 13:26:47.325] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-24 13:26:47.325] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-24 13:26:47.325] [I] Screen scale: 1.5
+[2025-02-24 13:26:47.325] [I] Retina factor: 1
+[2025-02-24 13:26:47.325] [I] Screens: 1
+[2025-02-24 13:26:47.325] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-24 13:26:47.333] [I] Desktops: -1
+[2025-02-24 13:26:47.333] [I] OpenGL support: false
+[2025-02-24 13:26:47.400] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-24 13:26:47.405] [I] Settings imported
+[2025-02-24 13:26:47.407] [I] Breakpad initialized
+[2025-02-24 13:26:47.420] [I] Process priority: 1
+[2025-02-24 13:26:47.420] [I] Initializing Snipaste...
+[2025-02-24 13:26:47.988] [I] Prefetch...
+[2025-02-24 13:26:48.005] [I] Load default ssl configuration: 16 ms
+[2025-02-24 13:26:48.183] [I] Preloaded 20 files: 194 ms
+[2025-02-24 13:26:48.192] [I] About to apply settings...
+[2025-02-24 13:26:48.249] [I] Settings applied
+[2025-02-24 13:26:48.262] [I] Log level set to: 2
+[2025-02-24 13:26:48.304] [I] History dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/history
+[2025-02-24 13:26:48.316] [I] Header version: 193
+[2025-02-24 13:26:48.317] [I] About to restore pasters...
+[2025-02-24 13:26:48.326] [I] Group 0 [VZNY27]: "默认"
+[2025-02-24 13:26:48.326] [I] Record version: 193
+[2025-02-24 13:26:48.326] [I] To restore: 0
+[2025-02-24 13:26:48.326] [I] Pasters touched
+[2025-02-24 13:26:48.326] [I] All pasters activated: true
+[2025-02-24 13:26:48.384] [I] Unref images: 0 (0 removed)
+[2025-02-24 13:26:48.384] [I] Unref dirs: 0 (0 removed)
+[2025-02-24 13:26:48.384] [I] Empty history info files: 0 (0 removed)
+[2025-02-24 13:26:48.384] [I] Pasters restored
+[2025-02-24 13:26:48.385] [I] Launch time: 1060 ms
+[2025-02-24 13:28:00.399] [W] Feed error: 下载更新源失败。网络错误：Operation canceled
+[2025-02-24 13:28:05.884] [W] Feed error: 下载更新源失败。网络错误：连接关闭了
+[2025-02-24 13:28:07.653] [E] 下载更新源失败。网络错误：连接关闭了
+[2025-02-24 17:01:47.773] [I] ***************************************************************
+[2025-02-24 17:01:47.774] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-24 17:01:47.774] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-24 17:01:47.774] [I] Cores: 20
+[2025-02-24 17:01:47.774] [I] Elevated: false
+[2025-02-24 17:01:47.774] [I] Main thread id: 0x6cb4
+[2025-02-24 17:01:47.774] [I] Log level: 2
+[2025-02-24 17:01:47.774] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-24 17:01:47.774] [I] Working dir: C:/WINDOWS/system32
+[2025-02-24 17:01:47.774] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-24 17:01:47.774] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-24 17:01:47.774] [I] Screen scale: 1.5
+[2025-02-24 17:01:47.774] [I] Retina factor: 1
+[2025-02-24 17:01:47.774] [I] Screens: 1
+[2025-02-24 17:01:47.774] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-24 17:01:47.782] [I] Desktops: -1
+[2025-02-24 17:01:47.782] [I] OpenGL support: false
+[2025-02-24 17:01:47.841] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-24 17:01:47.847] [I] Settings imported
+[2025-02-24 17:01:47.849] [I] About to restart...
+[2025-02-24 17:01:47.850] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
+
+
