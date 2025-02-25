@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JS-函数</title>
+</head>
+<body>
+  
+
+  <script>
+             //自定义对象
+        let user = {
+            name: "Tom",
+            age: 10,
+            gender: "男",
+            sing: function(){
+              console.log("悠悠的唱着最炫的民族风~");
+         }
+    }
+
+        console.log(user.name);
+        user.sing();
+
+        //json文件
+        let dog = {
+            "name":"团团",
+            "age":3,
+        }
+        alert(JSON.stringify(dog));
+        let dogJson='{"name":"spider","age":18}';
+        alert(JSON.parse(dogJson));
+  </script>
+</body>
+</html>

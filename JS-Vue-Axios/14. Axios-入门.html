@@ -15,17 +15,26 @@
     <script>
         //发送GET请求
         document.querySelector('#btnGet').addEventListener('click', () => {
-            axios.get('https://mock.apifox.cn/m1/3083103-0-default/emps/list').then((result) => {
-                console.log(result.data);
-            });
-            console.log('==========================');
+            axios({
+        url:'https://mock.apifox.cn/m1/3083103-0-default/emps/list',
+        method:'get'
+      }).then(function(res) {
+        console.log(res.data);
+      }).catch(function(err) {
+        console.log(err);
+      })
         })
         
         //发送POST请求
         document.querySelector('#btnPost').addEventListener('click', () => {
-            axios.post('https://mock.apifox.cn/m1/3083103-0-default/emps/update', 'id=1').then((result) => {
-                console.log(result.data);
-            });
+            axios({
+        url:'https://mock.apifox.cn/m1/3083103-0-default/emps/update',
+        method:'post'
+      }).then(function(res) {
+        console.log(res.data);
+      }).catch(function(err) {
+        console.log(err);
+      })
         })
     </script>
 </body>

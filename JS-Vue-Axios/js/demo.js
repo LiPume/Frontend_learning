@@ -1,0 +1,1 @@
+alert('Hello JS you can make it')

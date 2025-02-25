@@ -552,3 +552,49 @@
 [2025-02-24 17:01:47.850] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
 
 
+[2025-02-25 12:31:09.403] [I] ***************************************************************
+[2025-02-25 12:31:09.404] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-25 12:31:09.404] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-25 12:31:09.404] [I] Cores: 20
+[2025-02-25 12:31:09.404] [I] Elevated: false
+[2025-02-25 12:31:09.404] [I] Main thread id: 0x660c
+[2025-02-25 12:31:09.404] [I] Log level: 2
+[2025-02-25 12:31:09.404] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-25 12:31:09.404] [I] Working dir: C:/WINDOWS/system32
+[2025-02-25 12:31:09.404] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-25 12:31:09.404] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-25 12:31:09.404] [I] Screen scale: 1.5
+[2025-02-25 12:31:09.404] [I] Retina factor: 1
+[2025-02-25 12:31:09.404] [I] Screens: 1
+[2025-02-25 12:31:09.404] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-25 12:31:09.411] [I] Desktops: -1
+[2025-02-25 12:31:09.411] [I] OpenGL support: false
+[2025-02-25 12:31:09.473] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-25 12:31:09.479] [I] Settings imported
+[2025-02-25 12:31:09.482] [I] About to restart...
+[2025-02-25 12:31:09.484] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
+
+
+[2025-02-25 16:19:02.572] [I] ***************************************************************
+[2025-02-25 16:19:02.572] [I] Snipaste 2.7-Beta x64 (Desktop) (Qt 5.12.6)
+[2025-02-25 16:19:02.572] [I] OS: Windows 10 (10.0) [10.0.26100]
+[2025-02-25 16:19:02.572] [I] Cores: 20
+[2025-02-25 16:19:02.572] [I] Elevated: false
+[2025-02-25 16:19:02.572] [I] Main thread id: 0x7030
+[2025-02-25 16:19:02.572] [I] Log level: 2
+[2025-02-25 16:19:02.572] [I] Application dir: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）
+[2025-02-25 16:19:02.572] [I] Working dir: C:/WINDOWS/system32
+[2025-02-25 16:19:02.572] [I] Config: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-25 16:19:02.572] [I] Library paths: (E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）)
+[2025-02-25 16:19:02.572] [I] Screen scale: 1.5
+[2025-02-25 16:19:02.572] [I] Retina factor: 1
+[2025-02-25 16:19:02.572] [I] Screens: 1
+[2025-02-25 16:19:02.572] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2025-02-25 16:19:02.579] [I] Desktops: -1
+[2025-02-25 16:19:02.579] [I] OpenGL support: false
+[2025-02-25 16:19:02.642] [I] About to import settings from: E:/FrontEnd/前端web基础/01. 前端Web基础(HTML+CSS)/资料/4. 其他软件/Snipaste-2.7（64bit）/config.ini
+[2025-02-25 16:19:02.648] [I] Settings imported
+[2025-02-25 16:19:02.651] [I] About to restart...
+[2025-02-25 16:19:02.654] [I] Restart soon: [1] C:\WINDOWS\system32\schtasks.exe /run /tn "Snipaste (Run As Admin) @AAD6"
+
+

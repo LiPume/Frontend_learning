@@ -258,9 +258,23 @@
     </div>
 
     <script>
-        //通过JS实现上述表格中数据行的隔行换色效果, 奇数行背景色设置为 #f2e2e2, 偶数行背景色设置为 #e6f7ff (JS新语法实现)
-        
+        //点击列表中每一条记录后面的删除按钮，弹出一个提示框，提示：您是否要删除这条记录？ 如果确定，则移出这条记录
+        document.querySelectorAll('.action-buttons button:nth-child(2)').forEach(function (button) {
+            button.addEventListener('click', function () {
+                if (confirm('您是否要删除这条记录？')) {
+                    this.parentElement.parentElement.remove();
+                }
+            });
+        });
+        //通过JS为上述的表格中数据行添加事件监听, 实现鼠标进入后, 背景色#f2e2e2; 鼠标离开后, 背景色需要设置为#fff; (JS新版本的语法)
+        document.querySelectorAll('tbody tr').forEach(function (tr) {
+            tr.addEventListener('mouseenter', function () {
+                this.style.backgroundColor = '#f2e2e2';
+            });
+            tr.addEventListener('mouseleave', function () {
+                this.style.backgroundColor = '#fff';
+            });
+        });
     </script>
-
 </body>
 </html>

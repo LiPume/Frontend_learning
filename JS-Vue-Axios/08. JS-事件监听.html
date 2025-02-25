@@ -11,7 +11,13 @@
   <input type="button" id="btn2" value="点我一下试试2">
 
   <script>
-    
+    document.querySelector('#btn1').addEventListener('click',()=>{
+            alert('别搞我，我只是一个按钮');
+    })
+    //通过DOM中Element元素的事件属性进行绑定
+    document.querySelector('#btn2').onclick = function(){
+            alert("按钮2被点击了...");
+    }
   </script>
 </body>
 </html>
